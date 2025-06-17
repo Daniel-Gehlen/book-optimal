@@ -36,7 +36,3 @@
 2. **Book Clubs**: Discover new group selections
 3. **Libraries**: Enhance recommendation systems
 4. **Educators**: Find relevant academic materials
-
-## ℹ️ About
-
-"BookOptimal leverages advanced algorithms (SELECT, Randomized-SELECT) with OpenLibrary API, vanilla JS, and localStorage to deliver personalized book recommendations through statistical analysis and preference mapping."
